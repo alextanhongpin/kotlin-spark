@@ -20,3 +20,5 @@ Output:
 ```
 Hello Spark Kotlin!%                                                                                                                                                                           
 ```
+
+https://medium.com/@v.souhrada/build-rest-service-with-kotlin-spark-java-and-requery-part-2-8841e40418c4
